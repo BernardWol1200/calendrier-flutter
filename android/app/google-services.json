@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "487236835116",
+    "firebase_url": "https://naw-calendrier.firebaseio.com",
+    "project_id": "naw-calendrier",
+    "storage_bucket": "naw-calendrier.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487236835116:android:6a3bd3c4890b59b8af7e89",
+        "android_client_info": {
+          "package_name": "com.naw.calendrier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487236835116-u6c5egb7ju3gbb3gmekqdh2nd1g6ji0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqLPmlen52gOHvNZM_oFEPzcuvCUC7Yr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487236835116-u6c5egb7ju3gbb3gmekqdh2nd1g6ji0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
